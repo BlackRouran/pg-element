@@ -1,5 +1,5 @@
 {
-  "name": "@blackskin/pg-button",
+  "name": "pgg-elbutton",
   "version": "0.0.4",
   "description": "",
   "main": "index.js",
@@ -9,5 +9,5 @@
   "keywords": [],
   "author": "",
   "license": "MIT",
-  "gitHead": "82e276c3f321c6ccd43d626c910c47d21fc56265"
+  "gitHead": "ba01cd974d06eec1dd66234e5e7c375f0df0af9e"
 }
