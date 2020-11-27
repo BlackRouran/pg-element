@@ -1,5 +1,5 @@
 {
-  "name": "pg-button",
+  "name": "@blackskin/pg-button",
   "version": "0.0.3",
   "description": "",
   "main": "index.js",
@@ -8,5 +8,6 @@
   },
   "keywords": [],
   "author": "",
-  "license": "MIT"
+  "license": "MIT",
+  "gitHead": "82e276c3f321c6ccd43d626c910c47d21fc56265"
 }

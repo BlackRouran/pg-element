@@ -11,5 +11,6 @@
   "license": "MIT",
   "dependencies": {
     "async-validator": "^3.5.0"
-  }
+  },
+  "gitHead": "82e276c3f321c6ccd43d626c910c47d21fc56265"
 }
