@@ -1,5 +1,5 @@
 {
-  "name": "lg-steps",
+  "name": "pg-elsteps",
   "version": "0.0.5",
   "description": "",
   "main": "index.js",
@@ -9,5 +9,5 @@
   "keywords": [],
   "author": "",
   "license": "MIT",
-  "gitHead": "ba01cd974d06eec1dd66234e5e7c375f0df0af9e"
+  "gitHead": "6dafb26eebb5957b4e9f3308f62e9d75b09f0219"
 }
